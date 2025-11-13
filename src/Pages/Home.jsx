@@ -8,7 +8,7 @@ function Home() {
 
       <div >
         <section style={{
-          backgroundImage: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDPTp5HhYkD9FjAlS_dRnq8Fu1RCkxEiWxA&s')",
+          backgroundImage: "url('https://media.licdn.com/dms/image/v2/D5612AQHrO5JLVEtSiA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1690202104783?e=2147483647&v=beta&t=fjDDfk0EwpgzR4t-mdIteZOFr8dWsDkbqBzvOIleKn4')",
           backgroundAttachment: "fixed",
           backgroundPosition: "top",
           backgroundSize: "cover",
